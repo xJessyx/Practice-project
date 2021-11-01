@@ -1,0 +1,27 @@
+<resources>
+    <string name="select_region_dialog_title">MyCard_ios</string>
+
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_password">Password</string>
+    <string name="title_activity_verification">Verification</string>
+    <string-array name="spn_list">
+        <item>+886</item>
+        <item>+86</item>
+        <item>+852</item>
+        <item>+91</item>
+        <item>+960</item>
+        <item>+62</item>
+        <item>+98</item>
+        <item>+964</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
